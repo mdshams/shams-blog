@@ -1,8 +1,8 @@
 ---
 layout: page
-title: acknowledgement
-permalink: /acknowledgement/
+title: About
+permalink: /About/
 image: /images/pic01.jpg
 ---
 ### Website Design
-- [HTML5up](http://html5up.net/)
+- [HTML5up](http://www.mdshams.com/)
