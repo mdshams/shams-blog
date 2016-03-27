@@ -2,9 +2,7 @@
 title: Shams Blog
 email: mdshamsc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A few words from a designer who learn about design over time from the words and works of other great designers.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.mdshams.com" # the base hostname & protocol for your site
 twitter_username: delwardesigns

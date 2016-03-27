@@ -2,7 +2,7 @@
 layout: post
 title:  "Fourth Post"
 date:   2016-03-15 12:28:10
-categories: jekyll update
+categories: Blog Design
 tags: Blog Fourth Game
 image: /images/4.jpg
 ---
