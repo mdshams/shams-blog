@@ -24,12 +24,15 @@
                 </div>
                 <div class="meta">
                   <time class="published" datetime="{{ page.date | date: "%F" }}">{{ page.date | date: "%B %d, %Y" }}</time>
-                  {% for category in page.categories limit:1 %}
+                  
+                  <a href="http://about.me/scdelwar" class="author"><span class="name">Shams</span><img src="/images/me.png" alt="Author" /></a>
+                   
+                   <!--{% for category in page.categories limit:1 %}
                     <a href="#">{{ category }}</a>
-                  {% endfor %}
+                  {% endfor %}-->
 
         
-        <a href="http://about.me/scdelwar" class="author"><span class="name">Shams</span><img src="/images/me.png" alt="Author" /></a>
+        
         
                 </div>
               </header>
