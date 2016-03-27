@@ -2,11 +2,7 @@
 layout: no-about-page
 title: About
 permalink: /about/
-image: /images/me.png
+<!--image: /images/me.png-->
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+ডিজাইন নিয়ে পরে আছি প্রায় তিন বছর। শুরু থেকে আজ অব্দি শিখেই চলেছি, না শিখার কোন শেষ আছে না আমার কোন ক্লান্তি আছে শেখায়। নিজের প্রতি নিয়ত শেখার এই যাত্রার স্বাদটুকু অন্যদেরকে দিতেই আমার এই প্রায়স। 

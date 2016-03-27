@@ -2,7 +2,9 @@
 title: Shams Blog
 email: mdshamsc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  পড়াশোনা ফিন্যান্স নিয়ে কিন্তু নেশাটা ছিল ৃজনশীল কিছু করা নিয়ে। তাই কখনও প্রোগ্রামিং নিয়ে কখনও বা ছবি আঁকা নিয়ে প্রে তাম : "" # the subpath of your site, e.g. /blog/
+  ডিজাইন নিয়ে পরে আছি প্রায় তিন বছর। শুরু থেকে আজ অব্দি শিখেই চলেছি, না শিখার কোন শেষ আছে না আমার কোন ক্লান্তি আছে শেখায়। নিজের প্রতি নিয়ত শেখার এই যাত্রার স্বাদটুকু অন্যদেরকে দিতেই আমার এই প্রায়স। 
+
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.mdshams.com" # the base hostname & protocol for your site
 twitter_username: delwardesigns
 github_username:  mdshams
