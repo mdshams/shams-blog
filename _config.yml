@@ -2,8 +2,7 @@
 title: Shams Blog
 email: mdshamsc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A few words from a designer who learn about design over time from the words and works of other great designers.
-baseurl: "" # the subpath of your site, e.g. /blog/
+  পড়াশোনা ফিন্যান্স নিয়ে কিন্তু নেশাটা ছিল ৃজনশীল কিছু করা নিয়ে। তাই কখনও প্রোগ্রামিং নিয়ে কখনও বা ছবি আঁকা নিয়ে প্রে তাম : "" # the subpath of your site, e.g. /blog/
 url: "http://blog.mdshams.com" # the base hostname & protocol for your site
 twitter_username: delwardesigns
 github_username:  mdshams
@@ -11,7 +10,7 @@ github_username:  mdshams
 # Build settings
 markdown: kramdown
 
-paginate: 4
+paginate: 5
 
 author: Md. Shamsuddin
 
